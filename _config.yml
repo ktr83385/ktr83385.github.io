@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "끊임없이 배워가는 초보 개발자"
-description              : "아직은 미미한 개발자"
+name                     : "데이터엔지니어가 되고싶은 애송이"
+description              : "아직은 너무 애송이다"
 url                      : "https://ktr83385.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "끊임없이 배워가는 초보 개발자"
+  name             : "데이터엔지니어가 되고싶은 애송이"
   avatar           : "/assets/images/pt1.jpg"
-  bio              : "아직은 미미한 개발자"
+  bio              : "아직은 너무 애송이다"
   location         : "South Korea"
   email            :
   links:
@@ -105,7 +105,7 @@ author:
       url: "mailto:ktr83385@dgu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://ktr83385.com"
+      url: "https://ktr83385.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
