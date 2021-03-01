@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "항상 자신을 객관적으로 보도록 하자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "데이터엔지니어가 되고싶은 애송이"
