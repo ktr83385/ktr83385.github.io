@@ -1,6 +1,6 @@
 ---
 title: "1. 산업시스템공학종합설계 제안서"
-except: "산업시스템공학종합설계 첫 번째 게시글"
+excerpt: "산업시스템공학종합설계 첫 번째 게시글"
 toc: true
 toc_sticky: true
 categories:
