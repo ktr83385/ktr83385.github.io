@@ -4,7 +4,7 @@ excerpt: "산업시스템공학종합설계 첫 번째 게시글"
 toc: true
 toc_sticky: true
 categories:
-	- 산업시스템공학종합설계
+  - 산업시스템공학종합설계
 tags:
   - 산업시스템공학종합설계
   - 졸업프로젝트
